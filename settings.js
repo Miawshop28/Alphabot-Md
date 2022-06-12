@@ -18,21 +18,21 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Dityabotz-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ Dityaastawa ×፝֟͜×" //nama kalian
-global.myweb ="https://chat.whatsapp.com/CXP3PISEIaF90hb5WbUIRh" //bebas asal jan hapus
+global.botname = "Miawbotz-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ Liaa ×፝֟͜×" //nama kalian
+global.myweb ="https://chat.whatsapp.com/ItVDmZjWnjR1YEQBonUjP8" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg" //bebas asal jan hapus
 global.github = "https://github.com/Dityaastawa" //bebas
-global.email = "dityaastawa2@gmail.com" //bebas
+global.email = "miawshop@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6285237596750" // nomor wa kalian
-global.ownernomerr = "+6285237596750" //nmr wa kalian
+global.ownernomer = "6283119067191" // nomor wa kalian
+global.ownernomerr = "+6283119067191" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/4d873752d8aa7a764d879.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285237596750","6285237596750","6285237596750"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Dityabotz-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh Dityaastawa' //sticker wm ganti nama kalian
+global.owner = ["6283119067191"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© Miawbotz-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh Liaa' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
